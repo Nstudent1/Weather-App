@@ -1,0 +1,30 @@
+.title {
+  text-align: center;
+}
+
+.form {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.button {
+  background-color: lightgray;
+  font-size: 0.7rem;
+  color: black;
+  border: none;
+}
+.button:hover {
+  background-color: green;
+  color: white;
+  border-radius: 8px;
+}
+
+.input-field {
+  border-radius: 8px;
+  padding: none;
+  font-size: 0.7rem;
+}
+
+section {
+  text-align: center;
+}
